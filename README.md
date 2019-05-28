@@ -24,4 +24,12 @@ $ fcitx -r
 
 ## 截图
 
+> 截图所示Emoji为[Google Noto Color Emoji](https://www.google.com/get/noto/help/emoji/)字体；若您使用`ArchLinux`及其衍生发行版，执行`sudo pacman -Syy && sudo pacman -S noto-fonts-emoji`即可安装
+
 ![screenshot.png](./screenshot.png)
+
+## 参考
+
+- [Full Emoji List, v12.0](https://unicode.org/emoji/charts/full-emoji-list.html)
+- [快速输入](https://fcitx-im.org/wiki/QuickPhrase/zh-hans)
+- [Noto Color Emoji – Google Noto Fonts](https://www.google.com/get/noto/help/emoji/)
